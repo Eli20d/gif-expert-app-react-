@@ -1,3 +1,6 @@
+import PropTypes from 'prop-types'
+
+
 export const GifItem = ({ title, url,id }) => {
   return (
      <div className="card">
